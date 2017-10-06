@@ -32,6 +32,7 @@ Se necesita crear una aplicación que permite la administración de un cine en l
 - Nadie a excepción del administrador puede modificar las peliculas y ver las estadísticas.
 - Las compras en el sistema serán simuladas por un boton que tenga una confirmación.
 - Es posible tener varias películas en cartelera con diferentes horarios para la misma sala
+- Es necesario tener una data DUMMY para ver el trabajo formalizado por parte del desarrollador
 
 ### Aspectos tecnicos
 Para desarrollar esta aplicación se necesita:

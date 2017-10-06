@@ -1,2 +1,1 @@
-# ror-candidate-test
-Repository for RoR Tests
+# Test for Ruby On Rails developer
